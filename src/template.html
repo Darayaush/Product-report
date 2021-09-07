@@ -1,0 +1,50 @@
+<ul class="days-list">
+  <% let id = 1 %>
+  <% structure.forEach((elALevel) => { %>
+  <% let docAmount = elALevel.documents.length %>
+  <li class="days-list__item">
+    <section class="days-list__info-cover day-item">
+      <a href="#operations-list<%= id %>" class="day-item__item-header link">
+        <h2 class="day-item__heading arrow"><%= elALevel.dateShort %></h2>
+        <span class="day-item__opirations-info">Документов: <%= docAmount %> (<%= elALevel.docsSum %> &#8381;)</span>
+      </a>
+      <ul id="operations-list<%= id %>" class="day-item__list operations-list list">
+        <% elALevel.documents.forEach((elBLevel) => { %>
+        <% let prodAmount = elBLevel.products.length %>
+        <% id++ %>
+        <li class="operations-list__item">
+          <div class="operations-list__item-header">
+            <h3 class="operations-list__item-heading">
+              <%= elBLevel.typeName %> №<%= elBLevel.docId %>
+            </h3>
+            <span class="operations-list__products-info"><%= elBLevel.prodsSum %> &#8381;</span>
+          </div>
+          <h4 class="operations-list__summary">
+            <a class="operations-list__summary-link link arrow" href="#products-list<%= id %>">Товаров: <%= prodAmount %></a>
+          </h4>
+          <ul id="products-list<%= id %>" class="operations-list__list products-list list">
+            <% elBLevel.products.forEach((elCLevel) => { %>
+            <% let classNoImg = (elCLevel.noImg)? "img-placeholder" : "" %>
+            <li class="products-list__item" data-prod-removed="<%= elBLevel.removed %>" data-prod-id="<%= elCLevel.prodId %>">
+              <div class="products-list__product-container product-item">
+                <div class="product-item__el product-item__img-container">
+                  <img class="product-item__img <%= classNoImg %>" src="<%= elCLevel.image %>"alt="Фотография товара" />
+                </div>
+                <div class="product-item__el product-item__info-container">
+                  <h4 class="product-item__heading"><%= elCLevel.prodName %></h4>
+                  <span class="product-item__info product-item__amount"><%= elCLevel.quantity %> штук</span>
+                  <span class="product-item__info product-item__mult-symbol">&#215;</span>
+                  <span class="product-item__info product-item__price"><%= elCLevel.price %> &#8381;</span>
+                  <span class="product-item__info product-item__result-price"><%= (elCLevel.quantity * elCLevel.price).toFixed(2) %> &#8381;</span>
+                </div>
+              </div>
+            </li>
+            <% }); %>
+          </ul>
+        </li>
+        <% }); %>
+      </ul>
+    </section>
+  </li>
+  <% }); %>
+</ul>

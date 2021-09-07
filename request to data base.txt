@@ -1,0 +1,10 @@
+SELECT docs.id as docId, docs.date, docTypes.id as typeId, docTypes.name as typeName, rows.id as rowId, rows.productId, rows.quantity, products.id as prodId, products.name as prodName, products.image, products.price, products.removed FROM docs, docTypes, rows, products 
+WHERE docs.typeId = docTypes.id
+AND docs.id IN 
+(SELECT id FROM docs WHERE removed = 0 and typeId IN 
+(SELECT id FROM docTypes WHERE removed = 0))
+AND docs.id = rows.docId
+AND rows.id IN 
+(SELECT id FROM rows WHERE removed = 0)
+AND rows.productId = products.id
+order by date;

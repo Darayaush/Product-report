@@ -1,0 +1,276 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: normal;
+}
+
+img {
+  max-width: 100%;
+}
+
+:root {
+  --main-color: #8a8a8a;
+  --max-offset: 15px;
+  --mid-offset: 10px;
+  --min-offset: 5px;
+}
+
+body {
+  font-family: "font", sans-serif;
+  font-size: 16px;
+  color: var(--main-color);
+  background-color: #ededed;
+}
+
+.arrow::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  transform-origin: center;
+  transition: transform 0.2s ease-in-out;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.link:hover .arrow::before {
+  opacity: 0.7;
+}
+
+.arrow::before,
+.link {
+  transition: opacity 0.1s ease-in, transform 0.2s ease-in;
+}
+
+.link:hover {
+  opacity: 0.7;
+}
+
+.days-list {
+  max-width: 540px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.days-list__item {
+  box-shadow: 0px 0px 4px var(--main-color);
+}
+
+.days-list__item:not(:last-child) {
+  margin-bottom: var(--min-offset);
+}
+
+.day-item {
+  padding-top: var(--max-offset);
+  padding-bottom: var(--max-offset);
+  background-color: #fff;
+}
+
+.day-item__item-header {
+  padding-left: var(--max-offset);
+  padding-right: var(--max-offset);
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.day-item__heading {
+  font-size: inherit;
+}
+
+.day-item__heading::before {
+  width: 10px;
+  height: 10px;
+  margin-right: var(--mid-offset);
+  background-image: url("/img/arrow2.svg");
+  background-size: 7px;
+  transform: rotate(-90deg);
+}
+
+.list-docs-arrow .arrow::before {
+  transform: rotate(90deg);
+}
+
+.operations-list__item {
+  padding: 20px 40px;
+}
+
+.operations-list__item:not(:last-child) {
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.operations-list__item-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: var(--mid-offset);
+}
+
+.operations-list__item-heading {
+  font-size: inherit;
+}
+
+.operations-list__summary {
+  display: block;
+  margin-bottom: var(--min-offset);
+}
+
+.operations-list__summary-link {
+  font-size: 14px;
+}
+
+.operations-list__summary-link::before {
+  width: 10px;
+  height: 10px;
+  margin-right: var(--min-offset);
+  background-image: url("/img/arrow1.svg");
+  background-size: cover;
+  transform: rotate(90deg);
+}
+
+.list-prods-arrow::before {
+  transform: rotate(0);
+}
+
+.products-list {
+  padding: var(--max-offset);
+}
+
+.products-list__item:not(:last-child) {
+  margin-bottom: var(--max-offset);
+}
+
+.product-item {
+  display: flex;
+  align-items: stretch;
+  color: #000;
+}
+
+.product-item__el:not(:last-child) {
+  margin-right: var(--max-offset);
+}
+
+.product-item__img-container {
+  width: 65px;
+  height: 65px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 10px;
+}
+
+.product-item__img {
+  max-height: 100%;
+  padding: 5px;
+}
+
+.img-placeholder {
+  border: 2px solid var(--main-color);
+}
+
+.product-item__info-container {
+  flex-grow: 1;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item__heading {
+  flex-basis: 100%;
+  flex-grow: 1;
+  flex-shrink: 0;
+  margin-bottom: var(--min-offset);
+  font-size: 14px;
+}
+
+.product-item__info {
+  font-size: 18px;
+}
+
+.product-item__price {
+  margin-right: auto;
+}
+
+.product-item__mult-symbol {
+  margin-right: var(--mid-offset);
+  margin-left: var(--mid-offset);
+}
+
+@media (max-width: 500px) {
+  .operations-list__item-header,
+  .day-item__item-header {
+    font-size: 14px;
+  }
+
+  .operations-list__item {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .product-item__info {
+    font-size: 16px;
+  }
+
+  .products-list {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .products-list__item:not(:last-child) {
+    margin-bottom: 35px;
+  }
+}
+
+@media (max-width: 375px) {
+  .product-item__img-container {
+    display: none;
+  }
+
+  .days-list__item:not(:last-child),
+  .products-list__item:not(:last-child) {
+    margin-bottom: 20px;
+  }
+
+  .operations-list__item-header,
+  .day-item__item-header {
+    flex-wrap: wrap;
+  }
+
+  .operations-list__item-heading,
+  .day-item__heading {
+    margin-bottom: 5px;
+  }
+
+  .day-item__heading,
+  .day-item__opirations-info,
+  .operations-list__item-heading,
+  .operations-list__products-info {
+    flex-basis: 100%;
+  }
+
+  .day-item__opirations-info,
+  .operations-list__products-info {
+    text-align: right;
+  }
+}

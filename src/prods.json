@@ -1,0 +1,796 @@
+{
+  "products": [
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361406,
+    "productId":564564867361410,
+    "quantity":45,
+    "prodId":564564867361410,
+    "prodName":"Творог 9% с курагой",
+    "image":"http://ecosned.ru/image/cache/catalog/categories/iz_fermerskogo_moloka/tvorog/7/ge-catalog-categories-iz_fermerskogo_moloka-tvorog-tvorozhnaya_massa_s_kuragoy-800x800.jpg",
+    "price":121.0,
+    "removed":0
+  },
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361407,
+    "productId":564564867361417,
+    "quantity":44,
+    "prodId":564564867361417,
+    "prodName":"Молочный Яблоко 100",
+    "image":"https://www.utkonos.ru/images/photo/3265/3265004H.jpg",
+    "price":25.10000000000000142,
+    "removed":0
+  },
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361408,
+    "productId":564564867361407,
+    "quantity":62,
+    "prodId":564564867361407,
+    "prodName":"Молочный Традиция 100",
+    "image":"http://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/299388/Ydfgl76IXe0nEM2gO6Ww.JPG",
+    "price":114.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361409,
+    "productId":564564867361403,
+    "quantity":87,
+    "prodId":564564867361403,
+    "prodName":"Виноград 0,3л",
+    "image":null,
+    "price":65.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361410,
+    "productId":564564867361402,
+    "quantity":86,
+    "prodId":564564867361402,
+    "prodName":"Русская картошка чедар 50",
+    "image":"https://mariupolcena.com/files/products/9ff44136e6ccb0afb404ad26f727e67d.jpeg",
+    "price":46.299999999999997156,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361411,
+    "productId":564564867361408,
+    "quantity":80,
+    "prodId":564564867361408,
+    "prodName":"Молочный Груша 200",
+    "image":"https://images.ua.prom.st/50389447_w640_h640_ncheskaya_s_grushej_200_g..jpg",
+    "price":179.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361412,
+    "productId":564564867361414,
+    "quantity":94,
+    "prodId":564564867361414,
+    "prodName":"Аленка карамель 100г Акционный товар Большая скидка",
+    "image":"https://www.utkonos.ru/images/photo/3054/3054289H.jpg",
+    "price":73.900000000000005684,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361367,
+    "date":"2017-10-16 12:07:07",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361413,
+    "productId":564564867361418,
+    "quantity":83,
+    "prodId":564564867361418,
+    "prodName":"Сыр 125г",
+    "image":"https://www.utkonos.ru/images/photo/3176/3176192H.jpg",
+    "price":130.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361368,
+    "date":"2017-10-16 15:09:08",
+    "typeId":564564867361354,
+    "typeName":"Расчет",
+    "rowId":574564867361414,
+    "productId":564564867361406,
+    "quantity":20,
+    "prodId":564564867361406,
+    "prodName":"Яблоко-Виноград 0,5л",
+    "image":"http://карапузик.com.images.1c-bitrix-cdn.ru/upload/iblock/b28/b28f089d41db757b74cfebfe21609228.jpg",
+    "price":44.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361368,
+    "date":"2017-10-16 15:09:08",
+    "typeId":564564867361354,
+    "typeName":"Расчет",
+    "rowId":574564867361415,
+    "productId":564564867361408,
+    "quantity":65,
+    "prodId":564564867361408,
+    "prodName":"Молочный Груша 200",
+    "image":"https://images.ua.prom.st/50389447_w640_h640_ncheskaya_s_grushej_200_g..jpg",
+    "price":179.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361368,
+    "date":"2017-10-16 15:09:08",
+    "typeId":564564867361354,
+    "typeName":"Расчет",
+    "rowId":574564867361416,
+    "productId":564564867361410,
+    "quantity":41,
+    "prodId":564564867361410,
+    "prodName":"Творог 9% с курагой",
+    "image":"http://ecosned.ru/image/cache/catalog/categories/iz_fermerskogo_moloka/tvorog/7/ge-catalog-categories-iz_fermerskogo_moloka-tvorog-tvorozhnaya_massa_s_kuragoy-800x800.jpg",
+    "price":121.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361368,
+    "date":"2017-10-16 15:09:08",
+    "typeId":564564867361354,
+    "typeName":"Расчет",
+    "rowId":574564867361417,
+    "productId":564564867361401,
+    "quantity":72,
+    "prodId":564564867361401,
+    "prodName":"Молочный Изюм 100",
+    "image":"https://www.komus.ru/medias/sys_master/root/hd3/h93/9286922043422.jpg",
+    "price":101.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361368,
+    "date":"2017-10-16 15:09:08",
+    "typeId":564564867361354,
+    "typeName":"Расчет",
+    "rowId":574564867361418,
+    "productId":564564867361403,
+    "quantity":39,
+    "prodId":564564867361403,
+    "prodName":"Виноград 0,3л",
+    "image":null,
+    "price":65.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361369,
+    "date":"2017-10-16 18:11:09",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361419,
+    "productId":564564867361407,
+    "quantity":60,
+    "prodId":564564867361407,
+    "prodName":"Молочный Традиция 100",
+    "image":"http://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/299388/Ydfgl76IXe0nEM2gO6Ww.JPG",
+    "price":114.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361369,
+    "date":"2017-10-16 18:11:09",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361420,
+    "productId":564564867361414,
+    "quantity":99,
+    "prodId":564564867361414,
+    "prodName":"Аленка карамель 100г Акционный товар Большая скидка",
+    "image":"https://www.utkonos.ru/images/photo/3054/3054289H.jpg",
+    "price":73.900000000000005684,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361369,
+    "date":"2017-10-16 18:11:09",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361421,
+    "productId":564564867361402,
+    "quantity":51,
+    "prodId":564564867361402,
+    "prodName":"Русская картошка чедар 50",
+    "image":"https://mariupolcena.com/files/products/9ff44136e6ccb0afb404ad26f727e67d.jpeg",
+    "price":46.299999999999997156,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361369,
+    "date":"2017-10-16 18:11:09",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361422,
+    "productId":564564867361420,
+    "quantity":15,
+    "prodId":564564867361420,
+    "prodName":"Русская картошка икра 50",
+    "image":"https://www.utkonos.ru/images/photo/3117/3117496H.jpg",
+    "price":33.100000000000001421,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361360,
+    "date":"2017-11-01 12:09:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361370,
+    "productId":564564867361408,
+    "quantity":96,
+    "prodId":564564867361408,
+    "prodName":"Молочный Груша 200",
+    "image":"https://images.ua.prom.st/50389447_w640_h640_ncheskaya_s_grushej_200_g..jpg",
+    "price":179.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361360,
+    "date":"2017-11-01 12:09:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361371,
+    "productId":564564867361411,
+    "quantity":89,
+    "prodId":564564867361411,
+    "prodName":"Парус апельсин 1л",
+    "image":null,
+    "price":150.0,
+    "removed":1
+  },
+
+  {
+    "docId":564564867361360,
+    "date":"2017-11-01 12:09:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361372,
+    "productId":564564867361417,
+    "quantity":9,
+    "prodId":564564867361417,
+    "prodName":"Молочный Яблоко 100",
+    "image":"https://www.utkonos.ru/images/photo/3265/3265004H.jpg",
+    "price":25.10000000000000142,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361373,
+    "productId":564564867361402,
+    "quantity":62,
+    "prodId":564564867361402,
+    "prodName":"Русская картошка чедар 50",
+    "image":"https://mariupolcena.com/files/products/9ff44136e6ccb0afb404ad26f727e67d.jpeg",
+    "price":46.299999999999997156,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361374,
+    "productId":564564867361409,
+    "quantity":67,
+    "prodId":564564867361409,
+    "prodName":"Молочный Сказка 100",
+    "image":"http://produkty-online.ru/wa-data/public/shop/products/31/83/18331/images/1359/1359.970.jpg",
+    "price":39.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361375,
+    "productId":564564867361416,
+    "quantity":51,
+    "prodId":564564867361416,
+    "prodName":"Тоник 0,5л",
+    "image":"https://www.utkonos.ru/images/photo/3139/3139296H.jpg",
+    "price":63.000000000000000001,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361376,
+    "productId":564564867361401,
+    "quantity":4,
+    "prodId":564564867361401,
+    "prodName":"Молочный Изюм 100",
+    "image":"https://www.komus.ru/medias/sys_master/root/hd3/h93/9286922043422.jpg",
+    "price":101.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361377,
+    "productId":564564867361410,
+    "quantity":60,
+    "prodId":564564867361410,
+    "prodName":"Творог 9% с курагой",
+    "image":"http://ecosned.ru/image/cache/catalog/categories/iz_fermerskogo_moloka/tvorog/7/ge-catalog-categories-iz_fermerskogo_moloka-tvorog-tvorozhnaya_massa_s_kuragoy-800x800.jpg",
+    "price":121.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361378,
+    "productId":564564867361403,
+    "quantity":61,
+    "prodId":564564867361403,
+    "prodName":"Виноград 0,3л",
+    "image":null,
+    "price":65.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361361,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":564564867361379,
+    "productId":564564867361412,
+    "quantity":41,
+    "prodId":564564867361412,
+    "prodName":"Беседа. 50гр",
+    "image":"http://xn--4-8sbu.xn--p1ai/thumb/4KQdJOhw0Uu5AnP0PPIrMQ/200r200/761268/3152.png",
+    "price":36.5,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361380,
+    "productId":564564867361401,
+    "quantity":3,
+    "prodId":564564867361401,
+    "prodName":"Молочный Изюм 100",
+    "image":"https://www.komus.ru/medias/sys_master/root/hd3/h93/9286922043422.jpg",
+    "price":101.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361381,
+    "productId":564564867361418,
+    "quantity":96,
+    "prodId":564564867361418,
+    "prodName":"Сыр 125г",
+    "image":"https://www.utkonos.ru/images/photo/3176/3176192H.jpg",
+    "price":130.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361382,
+    "productId":564564867361416,
+    "quantity":31,
+    "prodId":564564867361416,
+    "prodName":"Тоник 0,5л",
+    "image":"https://www.utkonos.ru/images/photo/3139/3139296H.jpg",
+    "price":63.000000000000000001,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361383,
+    "productId":564564867361405,
+    "quantity":52,
+    "prodId":564564867361405,
+    "prodName":"Парус лимон 1л",
+    "image":null,
+    "price":150.0,
+    "removed":1
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361384,
+    "productId":564564867361413,
+    "quantity":16,
+    "prodId":564564867361413,
+    "prodName":"Капля росы негаз 1.5л",
+    "image":"http://www.svoda.ru/site/userfiles/images/%D0%9A%D0%90%D0%9F%D0%9B%D0%AF%20%D0%A0%D0%9E%D0%A1%D0%AB%201.5%D0%9B%20%D0%93%D0%90%D0%97%D0%98%D0%A0%D0%9E%D0%92%D0%90%D0%9D%D0%9D%D0%90%D0%AF.jpg",
+    "price":16.899999999999998578,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361385,
+    "productId":564564867361404,
+    "quantity":81,
+    "prodId":564564867361404,
+    "prodName":"Нежирный творог",
+    "image":"http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/tvorog-prostokvashino-1.jpg",
+    "price":52.409999999999996589,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361386,
+    "productId":564564867361410,
+    "quantity":23,
+    "prodId":564564867361410,
+    "prodName":"Творог 9% с курагой",
+    "image":"http://ecosned.ru/image/cache/catalog/categories/iz_fermerskogo_moloka/tvorog/7/ge-catalog-categories-iz_fermerskogo_moloka-tvorog-tvorozhnaya_massa_s_kuragoy-800x800.jpg",
+    "price":121.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361387,
+    "productId":564564867361415,
+    "quantity":52,
+    "prodId":564564867361415,
+    "prodName":"Горький коньяк 100",
+    "image":"https://tashkentcena.com/files/products/893eebe7b69146290886dc504a3328ef.jpeg",
+    "price":335.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361362,
+    "date":"2017-11-03 13:11:06",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361388,
+    "productId":564564867361414,
+    "quantity":12,
+    "prodId":564564867361414,
+    "prodName":"Аленка карамель 100г Акционный товар Большая скидка",
+    "image":"https://www.utkonos.ru/images/photo/3054/3054289H.jpg",
+    "price":73.900000000000005684,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361397,
+    "productId":564564867361402,
+    "quantity":3,
+    "prodId":564564867361402,
+    "prodName":"Русская картошка чедар 50",
+    "image":"https://mariupolcena.com/files/products/9ff44136e6ccb0afb404ad26f727e67d.jpeg",
+    "price":46.299999999999997156,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361398,
+    "productId":564564867361403,
+    "quantity":88,
+    "prodId":564564867361403,
+    "prodName":"Виноград 0,3л",
+    "image":null,
+    "price":65.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361399,
+    "productId":564564867361404,
+    "quantity":20,
+    "prodId":564564867361404,
+    "prodName":"Нежирный творог",
+    "image":"http://www.calorizator.ru/sites/default/files/imagecache/product_512/product/tvorog-prostokvashino-1.jpg",
+    "price":52.409999999999996589,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361400,
+    "productId":564564867361416,
+    "quantity":64,
+    "prodId":564564867361416,
+    "prodName":"Тоник 0,5л",
+    "image":"https://www.utkonos.ru/images/photo/3139/3139296H.jpg",
+    "price":63.000000000000000001,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361401,
+    "productId":564564867361409,
+    "quantity":54,
+    "prodId":564564867361409,
+    "prodName":"Молочный Сказка 100",
+    "image":"http://produkty-online.ru/wa-data/public/shop/products/31/83/18331/images/1359/1359.970.jpg",
+    "price":39.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361402,
+    "productId":564564867361411,
+    "quantity":88,
+    "prodId":564564867361411,
+    "prodName":"Парус апельсин 1л",
+    "image":null,
+    "price":150.0,
+    "removed":1
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361403,
+    "productId":564564867361419,
+    "quantity":33,
+    "prodId":564564867361419,
+    "prodName":"Сметана и лук 25г",
+    "image":"https://teremok.sm.ua/wa-data/public/shop/products/82/25/82582/images/35179/35179.750@2x.jpg",
+    "price":30.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361404,
+    "productId":564564867361412,
+    "quantity":6,
+    "prodId":564564867361412,
+    "prodName":"Беседа. 50гр",
+    "image":"http://xn--4-8sbu.xn--p1ai/thumb/4KQdJOhw0Uu5AnP0PPIrMQ/200r200/761268/3152.png",
+    "price":36.5,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361365,
+    "date":"2017-11-29 17:26:57",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361405,
+    "productId":564564867361405,
+    "quantity":65,
+    "prodId":564564867361405,
+    "prodName":"Парус лимон 1л",
+    "image":null,
+    "price":150.0,
+    "removed":1
+  },
+
+  {
+    "docId":564564867361364,
+    "date":"2017-11-29 18:29:00",
+    "typeId":564564867361352,
+    "typeName":"Расход",
+    "rowId":574564867361396,
+    "productId":564564867361407,
+    "quantity":64,
+    "prodId":564564867361407,
+    "prodName":"Молочный Традиция 100",
+    "image":"http://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/299388/Ydfgl76IXe0nEM2gO6Ww.JPG",
+    "price":114.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361389,
+    "productId":564564867361402,
+    "quantity":6,
+    "prodId":564564867361402,
+    "prodName":"Русская картошка чедар 50",
+    "image":"https://mariupolcena.com/files/products/9ff44136e6ccb0afb404ad26f727e67d.jpeg",
+    "price":46.299999999999997156,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361390,
+    "productId":564564867361419,
+    "quantity":18,
+    "prodId":564564867361419,
+    "prodName":"Сметана и лук 25г",
+    "image":"https://teremok.sm.ua/wa-data/public/shop/products/82/25/82582/images/35179/35179.750@2x.jpg",
+    "price":30.0,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361391,
+    "productId":564564867361412,
+    "quantity":99,
+    "prodId":564564867361412,
+    "prodName":"Беседа. 50гр",
+    "image":"http://xn--4-8sbu.xn--p1ai/thumb/4KQdJOhw0Uu5AnP0PPIrMQ/200r200/761268/3152.png",
+    "price":36.5,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361392,
+    "productId":564564867361415,
+    "quantity":94,
+    "prodId":564564867361415,
+    "prodName":"Горький коньяк 100",
+    "image":"https://tashkentcena.com/files/products/893eebe7b69146290886dc504a3328ef.jpeg",
+    "price":335.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361393,
+    "productId":564564867361418,
+    "quantity":64,
+    "prodId":564564867361418,
+    "prodName":"Сыр 125г",
+    "image":"https://www.utkonos.ru/images/photo/3176/3176192H.jpg",
+    "price":130.99999999999999999,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361394,
+    "productId":564564867361417,
+    "quantity":52,
+    "prodId":564564867361417,
+    "prodName":"Молочный Яблоко 100",
+    "image":"https://www.utkonos.ru/images/photo/3265/3265004H.jpg",
+    "price":25.10000000000000142,
+    "removed":0
+  },
+
+  {
+    "docId":564564867361363,
+    "date":"2017-11-29 19:31:03",
+    "typeId":564564867361351,
+    "typeName":"Приход",
+    "rowId":574564867361395,
+    "productId":564564867361411,
+    "quantity":43,
+    "prodId":564564867361411,
+    "prodName":"Парус апельсин 1л",
+    "image":null,
+    "price":150.0,
+    "removed":1
+  }
+  ]
+}
